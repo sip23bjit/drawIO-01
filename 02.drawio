@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T02:15:05.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.2" etag="PpJUxA5ZDF1DrQy0iuoe" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T02:56:23.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qreCI7fgaNjUORPEu7VN" version="21.5.2" type="github">
   <diagram name="Page-1" id="dg9UHP85ramsMvqgY8rh">
-    <mxGraphModel>
+    <mxGraphModel dx="2200" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Lzwi8AhPmPaoD2csB6HC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="280" width="830" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzwi8AhPmPaoD2csB6HC-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Master controller Virtual Machine&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="200" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzwi8AhPmPaoD2csB6HC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="680" width="300" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzwi8AhPmPaoD2csB6HC-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="680" width="300" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzwi8AhPmPaoD2csB6HC-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Kubernetes Control Plane Virtual Machine&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1550" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzwi8AhPmPaoD2csB6HC-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Kubernetes Worker 01&amp;nbsp; Virtual Machine&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1365" y="1550" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzwi8AhPmPaoD2csB6HC-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="905" y="830" width="250" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzwi8AhPmPaoD2csB6HC-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1435" y="830" width="250" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzwi8AhPmPaoD2csB6HC-11" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1080" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Lzwi8AhPmPaoD2csB6HC-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="480" as="sourcePoint" />
+            <mxPoint x="1130" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
