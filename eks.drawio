@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T14:36:00.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QzohnHzvgE-QA91Ucch8" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T02:17:07.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="F8tnMCxodAeGfoUzgPC9" version="21.6.2" type="github">
   <diagram name="Page-1" id="pa2RsK-ee-q4RJ8g3-NK">
-    <mxGraphModel dx="2150" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1600" dy="1768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,12 +36,6 @@
         </mxCell>
         <mxCell id="WcAqCY-glhIl445MiRE2-54" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Kubectl&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="630.01" y="40" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WcAqCY-glhIl445MiRE2-55" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=2;endWidth=17;endSize=6.81;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="WcAqCY-glhIl445MiRE2-3" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="80" as="sourcePoint" />
-            <mxPoint x="674.3000000000001" y="120" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="WcAqCY-glhIl445MiRE2-2" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="300" y="145" width="740" height="547" as="geometry" />
@@ -84,6 +78,12 @@
         </mxCell>
         <mxCell id="WcAqCY-glhIl445MiRE2-44" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58534;gradientColor=none;" parent="WcAqCY-glhIl445MiRE2-2" vertex="1">
           <mxGeometry x="340" y="480" width="65" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="WcAqCY-glhIl445MiRE2-55" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=2;endWidth=17;endSize=6.81;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WcAqCY-glhIl445MiRE2-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="369.65999999999997" y="-75" as="sourcePoint" />
+            <mxPoint x="369.65999999999997" y="25" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
